@@ -1,0 +1,6 @@
+{
+  "name": "Neon Runner",
+  "description": "Futuristic cyberpunk endless runner game with neon visuals, dynamic obstacles, lane shifting, powerups, and synthwave sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
